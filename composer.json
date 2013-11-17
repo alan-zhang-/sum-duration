@@ -1,0 +1,16 @@
+{
+    "name": "alanzhang/sum-duration",
+    "authors": [
+        {
+            "name": "Alan Zhang",
+            "email": "alanzhang717@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.8",
+        "nass600/get-id3": "dev-master"
+    },
+    "bin": [
+        "src/simple-minify"
+    ]
+}
